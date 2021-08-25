@@ -1,0 +1,6 @@
+Django==3.2
+djangorestframework
+psycopg2-binary==2.8.6
+Pillow
+django-filter
+python-decouple
